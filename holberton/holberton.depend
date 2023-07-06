@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1658782955 source:c:\users\admin\documents\c programming\holberton\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658783093 source:c:\users\admin\documents\c programming\holberton\test.c
+
+1658925020 source:c:\users\admin\documents\c programming\holberton\trial.c
+	<stdio.h>
+	<stdlib.h>
+
